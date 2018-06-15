@@ -8,7 +8,7 @@ fi
     
 cd tools
     
-curl -L https://github.com/flakpaket/ubitools/blob/master/netcat?raw=true -o nc
+curl -L https://github.com/flakpaket/ubitools/blob/master/nc?raw=true -o nc
 curl -L https://github.com/flakpaket/ubitools/blob/master/lua?raw=true -o lua
 curl -L https://github.com/flakpaket/ubitools/blob/master/tcpdump?raw=true -o tcpdump
 curl -L https://github.com/flakpaket/ubitools/blob/master/synflood?raw=true -o synflood
